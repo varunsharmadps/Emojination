@@ -40,7 +40,7 @@ Thumbs.db
 ##########
 venv/
 *.egg-info/
-src/train_semeval2018task2/crawler/crawler.properties
+src/train_semeval2018task2/crawler/*
 .installed.cfg
 *.egg
 *.pyc
