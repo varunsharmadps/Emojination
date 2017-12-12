@@ -41,6 +41,7 @@ Thumbs.db
 venv/
 src/Models/.ipynb_checkpoints
 src/Models/model_swm_300-6-10-low.w2v
+src/Models/BLSTM/weights.hdf5
 *.egg-info/
 src/train_semeval2018task2/crawler/crawler.properties
 src/train_semeval2018task2/crawler/unicode_codes.py
